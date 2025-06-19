@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@theme {
+  --color-Green: hsl(75, 94%, 57%);
+  --color-White: hsl(0, 0%, 100%);
+  --color-Grey: hsl(0, 0%, 20%);
+  --color-darkGrey: hsl(0, 0%, 12%);
+  --color-veryDarkGrey: hsl(0, 0%, 8%);
+}
