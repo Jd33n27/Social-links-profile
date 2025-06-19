@@ -10,6 +10,7 @@
 
 @theme {
   --color-Green: hsl(75, 94%, 57%);
+  --color-darkGreen: hsl(75, 94%, 40%);
   --color-White: hsl(0, 0%, 100%);
   --color-Grey: hsl(0, 0%, 20%);
   --color-darkGrey: hsl(0, 0%, 12%);
